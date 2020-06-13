@@ -34,7 +34,7 @@ File -> Import -> Maven -> Existing Maven project -> spring-boot-simple-state-ma
 
 <img src="https://github.com/Sudarshan-Gowda/spring-boot-simple-state-machine/blob/master/docs/Project-Flow.gif"/>
 
-<br> And also you can verify the result from the console as below
+<br> And also you can verify the result from the console as below <br>
 <img src="https://github.com/Sudarshan-Gowda/spring-boot-simple-state-machine/blob/master/docs/Pic1.PNG"/>
 
 
